@@ -7,8 +7,8 @@
 </div>
 
 - 🔭 I’m currently working as a Frontend Developer
-- 🌱 I’m currently learning NodeJS and React
-- 💬 Ask me about Brazil, How to make Pizza, JavaScript or VueJS
+- 🌱 I’m currently learning NodeJS
+- 💬 Ask me about Brazil, How to make Pizza, JavaScript React or VueJS
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
