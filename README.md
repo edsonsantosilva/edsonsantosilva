@@ -6,9 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonsantosilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-- 🔭 I’m currently working as a Frontend Developer
-- 🌱 I’m currently learning NodeJS
-- 💬 Ask me about Brazil, How to make Pizza, JavaScript React or VueJS
+- 🔭 I’m currently working as a Fullstack Developer
+- 🌱 I’m currently learning French and German
+- 💬 Ask me about Pizza, JavaScript or Investments
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
